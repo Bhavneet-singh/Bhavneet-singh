@@ -1,16 +1,21 @@
-## Hi there 👋
+# Bhavneet Singh
 
-<!--
-**Bhavneet-singh/Bhavneet-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer focused on scalable systems, distributed architectures, and AI-powered applications.
 
-Here are some ideas to get you started:
+## Tech
+TypeScript • Node.js • PostgreSQL • Redis • Python • Java • Docker • AWS • LangChain • RAG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience
+- Built multi-tenant backend systems handling 50k+ daily API calls
+- Reduced API latency by ~40% through query optimization and schema redesign
+- Developed secure financial workflow APIs with RBAC and rate limiting
+- Built high-throughput real-time and distributed systems
+
+## Projects
+- Multi-Threaded HTTP Server
+- Real-Time Multiplayer Chess Platform
+- Expense Tracker SaaS
+- Semantic Search Engine (RAG)
+
+## Interests
+Distributed Systems • Backend Engineering • Applied AI • GenAI
